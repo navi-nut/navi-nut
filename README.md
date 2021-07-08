@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+My name is Ye Myat Tun (or Yamete).
+I love 🍗 ‍and 💻.
 
 <!--
 **YMT-Yamete/YMT-Yamete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
