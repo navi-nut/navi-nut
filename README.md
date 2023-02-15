@@ -24,7 +24,7 @@
 <table align="center">
   <tr>
     <td>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YMT-Yamete&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YMT-Yamete&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
     </td>
     <td>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YMT-Yamete&theme=holi-theme">
