@@ -10,7 +10,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Master of Computer and Information Science Student at <a href="https://www.aut.ac.nz/">AUT</a>
+### I am a Master of Computer and Information Science Student at <a href="https://www.aut.ac.nz/" target="_blank">AUT</a>
 - 🔭 Backend Developer.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: <a href="https://www.instagram.com/ymt.yamete/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23F05033.svg?logo=instagram&logoColor=white"></a>
