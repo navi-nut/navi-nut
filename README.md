@@ -3,7 +3,7 @@
  </p>
  
 <p>
-  <h1 align="center"><b>Hello there, my name is Ye Myat Tun | Yamete | Ivan. 👋</b></h1>
+  <h3 align="center"><b>Hello there, my name is Ye Myat Tun | Yamete | Ivan. 👋</b></h3>
 </p>
 
 <br>
@@ -14,7 +14,7 @@
 - 🔭 Backend Developer.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: <a href="https://www.instagram.com/ymt.yamete/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23F05033.svg?logo=instagram&logoColor=white"></a>
-- ⚡ Fun fact: I love Ramen 🍜
+- ⚡ Fun fact: I love Ramen 🍜 and Fried Chicken 🍗.
 
 
 <br><br>
