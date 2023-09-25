@@ -12,8 +12,8 @@
 
 ### I am a Master of Computer and Information Science Student at <a href="https://www.aut.ac.nz/" target="_blank">AUT</a>.
 - 🔭 Backend Developer.
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: <a href="https://www.instagram.com/ymt.yamete/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23F05033.svg?logo=instagram&logoColor=white"></a>
+- 💬 Ask me about anything, I am happy to help :smile:.
+- 📬 How to reach me: <a href="https://www.instagram.com/ymt.yamete/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23F05033.svg?logo=instagram&logoColor=white"></a>.
 - ⚡ Fun fact: I love Ramen 🍜 and Fried Chicken 🍗.
 
 
