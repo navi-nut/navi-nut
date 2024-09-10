@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://media.tenor.com/Lpv2jkCIi70AAAAd/omen.gif" width="800" height="400"/>
+  <img src="https://media.tenor.com/mncUBj3Wbz0AAAAM/attack-on-titan-freedom.gif" width="800" height="400"/>
  </p>
  
 <p>
