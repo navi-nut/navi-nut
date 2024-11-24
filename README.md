@@ -3,7 +3,7 @@
  </p>
  
 <p>
-  <h2 align="center"><b>Hello there, my name is Ye Myat Tun | Yamete | Ivan. 👋</b></h2>
+  <h2 align="center"><b>Hello there, my name is Ye Myat Tun | Ivan. 👋</b></h2>
 </p>
 
 <br>
