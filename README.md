@@ -11,7 +11,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Master of Computer and Information Science Student at <a href="https://www.aut.ac.nz/" target="_blank">AUT</a>.
-- 🔭 Backend Developer.
+- 🔭 Software Developer.
 - 💬 Ask me about anything, I am happy to help :smile:.
 - 📬 How to reach me: [![Email](https://img.shields.io/badge/Email-ymt.yemyattun@gmail.com-red?style=flat-square&logo=gmail)](mailto:ymt.yemyattun@gmail.com).
 - ⚡ Fun fact: I love Ramen 🍜 and Fried Chicken 🍗.
